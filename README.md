@@ -26,4 +26,4 @@ Line-by-line समझाई (Hinglish analogies ke saath):
 6) result = num1 + num2 — Agar "1" bola, toh dono number jod diye — jaise do glass paani ek bade jug mein daal diya.
 7)elif choice == '2': — Agar pehla darwaza match nahi hua, toh ye doosra darwaza check karta hai — "2" wala.
 8) result = num1 - num2 — Yahan pehle number mein se dusra ghata diya — jaise tumhare paas 10 rupaye the, dost ne 3 le liye, bacha 7.
-9)else: — Agar user ne 1 ya 2 chhodkar kuch aur daala, toh ye "galat entry" wala message dikhata hai — security guard bol raha hai "bhai, yahan entry nahi hai.”
+9) else: — Agar user ne 1 ya 2 chhodkar kuch aur daala, toh ye "galat entry" wala message dikhata hai — security guard bol raha hai "bhai, yahan entry nahi hai.”
